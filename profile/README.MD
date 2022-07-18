@@ -24,6 +24,7 @@ Source markdown files containing the content for call-report.github.io.
 
 Repo for general subject matter support, provided through `Issues`
 
+### [data-resources](https://github.com/call-report/support)
 
-
+Data resources to support the acquisition and loading of financial institution regulatory data.
 
