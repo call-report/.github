@@ -4,6 +4,10 @@ Welcome to Call Report, the repo supporting the call.report web site.
 
 ## Repositories
 
+### [ffiec-data-connect](https://github.com/call-report/ffiec-data-connect)
+
+Python library wrapper for FFIEC Webservice SOAP API
+
 ### [data-collector](https://github.com/call-report/data-collector)
 
 Universal data collector for FFIEC / US Government Bank Regulatory data (_alpha / pre-release_)
